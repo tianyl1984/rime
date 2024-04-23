@@ -1,0 +1,14 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	9
+#@/user_id	win-config
+ge shu 	個數	c=1 d=0.985112 t=9
+guang biao 	光標	c=2 d=1.96546 t=9
+hou xuan 	候選	c=0 d=0.097531 t=9
+hou xuan zi 	候選字	c=2 d=1.97025 t=9
+wei zhi 	位置	c=2 d=1.97531 t=9
+yong hu 	用戶	c=1 d=0.995012 t=9
+zi 	字	c=0 d=0.097531 t=9
+zi liao 	資料	c=1 d=1 t=9
