@@ -2,155 +2,287 @@
 #@/db_name	luna_pinyin
 #@/db_type	userdb
 #@/rime_version	1.8.5
-#@/tick	216
+#@/tick	491
 #@/user_id	win-config
-a li 	阿里	c=0 d=0.1 t=78
-a li yun pan 	阿里雲盤	c=1 d=1 t=79
-an 	按	c=1 d=1 t=183
-ba 	吧	c=2 d=1.8825 t=192
-bao 	包	c=1 d=1 t=70
-bao cun 	保存	c=3 d=2.23141 t=116
-bei 	北	c=1 d=1 t=40
-bei zhu 	備註	c=2 d=1.956 t=56
-bi xu 	必須	c=1 d=1 t=124
-bian liang 	變量	c=1 d=1 t=103
-biao da shi 	表達式	c=1 d=1 t=37
-bu neng 	不能	c=1 d=1 t=94
-bu shu 	部署	c=2 d=1.58567 t=208
-bu ying xiang 	不影響	c=1 d=1 t=156
-bu yong 	不用	c=1 d=1 t=137
-cai hui 	纔會	c=1 d=1 t=182
-can shu 	參數	c=1 d=1 t=99
-cha 	查	c=1 d=1 t=197
-cha kan 	查看	c=1 d=1 t=212
-cha ru 	插入	c=1 d=1 t=12
-cha xun 	查詢	c=1 d=1 t=29
-che chang 	車場	c=3 d=2.10065 t=169
-cheng gong 	成功	c=1 d=1 t=19
-chi 	池	c=1 d=1 t=41
-chong fu 	重複	c=1 d=1 t=31
-chong xin 	重新	c=1 d=1 t=207
-chu shi hua 	初始化	c=1 d=1 t=17
-da xie 	大寫	c=2 d=1.40454 t=204
-dao 	到	c=1 d=1 t=129
-dao ru 	導入	c=1 d=1 t=66
-de 	的	c=11 d=8.01513 t=180
-di fang 	地方	c=1 d=1 t=50
-di yi hang 	第一行	c=1 d=1 t=85
-di zhi 	地址	c=1 d=1 t=75
-dian 	點	c=2 d=1.99005 t=130
-dou 	都	c=1 d=1 t=125
-dou shi 	都是	c=1 d=1 t=194
-du qu 	讀取	c=2 d=1.96561 t=114
-duo hang 	多行	c=1 d=1 t=58
-fen ge 	分割	c=1 d=1 t=62
-fen hao 	分號	c=1 d=1 t=60
-fu wu duan 	服務端	c=1 d=1 t=112
-ge shu 	個數	c=1 d=0.985112 t=216
-gen ju 	根據	c=1 d=1 t=25
-geng xin 	更新	c=2 d=1.44264 t=187
-gong zuo 	工作	c=1 d=1 t=92
-guan le 	管了	c=1 d=1 t=138
-guang biao 	光標	c=2 d=1.96546 t=216
-gui ze 	規則	c=4 d=3.65035 t=185
-ha ha ha 	哈哈哈	c=1 d=1 t=43
-hao peng 	好鵬	c=1 d=1 t=190
-hao peng 	郝鵬	c=1 d=1 t=191
-he 	和	c=1 d=1 t=27
-hou xuan 	候選	c=0 d=0.097531 t=216
-hou xuan zi 	候選字	c=2 d=1.97025 t=216
-hou zhui 	後綴	c=1 d=1 t=82
-huan jing 	環境	c=1 d=1 t=102
-hui 	會	c=2 d=1.9802 t=146
-huo qu 	獲取	c=1 d=1 t=104
-ji fei 	計費	c=3 d=2.68836 t=186
-jian 	建	c=1 d=1 t=154
-jian hao 	建好	c=0 d=0.1 t=134
-jian hao ka 	建好卡	c=1 d=1 t=135
-jie jia ri 	節假日	c=3 d=2.9218 t=184
-jiu 	就	c=1 d=1 t=136
-jiu xing 	就行	c=1 d=1 t=164
-ka 	卡	c=3 d=2.95131 t=163
-kai fa 	開發	c=1 d=1 t=68
-lai yuan 	來源	c=1 d=1 t=28
-le 	了	c=2 d=1.48675 t=178
-le ma 	了嗎	c=1 d=1 t=134
-lei xing 	類型	c=1 d=1 t=26
-li wei 	離位	c=3 d=2.79187 t=158
-lu jing 	路徑	c=1 d=1 t=78
-ma 	嗎	c=1 d=1 t=121
-mai dong xi 	買東西	c=0 d=0.1 t=32
-mei 	沒	c=2 d=1.94649 t=131
-mei ju 	枚舉	c=1 d=1 t=14
-mu lu 	目錄	c=1 d=1 t=93
-ni 	你	c=0 d=0.151685 t=164
-ni mai dong xi 	你買東西	c=1 d=1 t=33
-ni wen wen 	你問問	c=1 d=1 t=165
-pan 	盤	c=0 d=0.1 t=78
-pei zhi 	配置	c=5 d=3.98479 t=177
-qing qiu 	請求	c=1 d=1 t=110
-ru he 	如何	c=4 d=3.37379 t=97
-san yuan 	三元	c=2 d=1.99501 t=36
-shang 	上	c=2 d=1.80654 t=170
-she ji 	設計	c=1 d=1 t=214
-shen me 	什麼	c=2 d=1.72615 t=152
-shen me shi 	什麼事	c=1 d=1 t=32
-shi 	是	c=2 d=1.84366 t=87
-shi 	時	c=4 d=3.15241 t=151
-shi bai 	失敗	c=3 d=2.61294 t=111
-shi duan 	時段	c=1 d=1 t=123
-shi fou 	是否	c=1 d=1 t=30
-shi hou 	時候	c=3 d=2.86562 t=161
-shi xiao 	失效	c=1 d=1 t=209
-shi yong 	使用	c=4 d=3.48337 t=95
-shi zhe ge 	是這個	c=1 d=1 t=118
-shu ju 	數據	c=3 d=2.91683 t=115
-shu ru fa 	輸入法	c=1 d=1 t=10
-shuo ming 	說明	c=1 d=1 t=216
-ta 	他	c=1 d=1 t=195
-tong chang 	通常	c=1 d=1 t=73
-tong guo 	通過	c=2 d=1.84789 t=98
-tou 	頭	c=1 d=1 t=42
-wan cheng 	完成	c=2 d=1.96079 t=117
-wei shen me 	爲什麼	c=1 d=1 t=72
-wei zhi 	位置	c=2 d=1.97531 t=216
-wen dang 	文檔	c=1 d=1 t=188
-wen jian 	文件	c=2 d=1.98511 t=83
-wen ti 	問題	c=1 d=1 t=199
-wen wen 	問問	c=1 d=1.08825 t=189
-wo bu qing chu 	我不清楚	c=1 d=1 t=168
-xian shi 	顯示	c=1 d=1 t=51
-xiang dui 	相對	c=1 d=1 t=77
-xiang mu 	項目	c=1 d=1 t=63
-xiao 	小	c=1 d=1 t=205
-xiao lang hao 	小狼毫	c=2 d=1.97045 t=206
-xie 	寫	c=1 d=1 t=39
-xin xi 	信息	c=2 d=1.956 t=57
-xiu gai 	修改	c=2 d=1.8311 t=81
-yan se 	顏色	c=1 d=1 t=211
-yang shi 	樣式	c=2 d=1.94649 t=213
-yi chang 	異常	c=1 d=1 t=113
-yi si 	意思	c=1 d=1 t=89
-ying wen 	英文	c=1 d=1 t=61
-yong 	用	c=3 d=2.62915 t=147
-yong hu 	用戶	c=1 d=0.995012 t=216
-you 	有	c=1 d=1 t=162
-you mei you 	有沒有	c=1 d=1 t=171
-yun 	雲	c=0 d=0.1 t=78
-zai 	在	c=1 d=1 t=196
-zai xian 	在線	c=2 d=1.97531 t=215
-zhe ge 	這個	c=2 d=1.6942 t=122
-zhe zhong 	這種	c=1 d=1 t=198
-zhi ding 	指定	c=2 d=1.956 t=100
-zhi qian 	之前	c=1 d=1 t=193
-zhi yao 	只要	c=1 d=1 t=157
-zhi you 	只有	c=1 d=1 t=176
-zhong 	中	c=2 d=1.90484 t=84
-zhuan wei 	轉爲	c=1 d=1 t=22
-zi 	字	c=0 d=0.097531 t=216
-zi ding yi 	自定義	c=1 d=1 t=201
-zi dong 	自動	c=1 d=1 t=143
-zi ji 	自己	c=1 d=1 t=67
-zi liao 	資料	c=1 d=1 t=216
-zi qiang 	自強	c=1 d=1 t=166
-zi ti 	字體	c=1 d=1 t=203
+a li 	阿里	c=0 d=0.0501576 t=491
+a li yun pan 	阿里雲盤	c=1 d=0.50409 t=491
+an 	按	c=2 d=0.847894 t=491
+ba 	吧	c=4 d=1.99411 t=491
+ba 	把	c=1 d=1 t=423
+ban ben 	版本	c=1 d=1 t=331
+bao 	包	c=1 d=0.481909 t=491
+bao cun 	保存	c=4 d=1.35342 t=491
+bei 	北	c=1 d=0.414783 t=491
+bei zhu 	備註	c=2 d=0.878887 t=491
+bi xu 	必須	c=1 d=0.631284 t=491
+bian liang 	變量	c=2 d=0.56836 t=491
+bian ma 	編碼	c=1 d=1 t=350
+biao da shi 	表達式	c=3 d=0.934582 t=491
+biao qian 	標籤	c=1 d=1 t=254
+bie you 	別有	c=1 d=1 t=467
+bo wei 	泊位	c=0 d=0.1 t=301
+bo wei shu 	泊位數	c=2 d=1.97045 t=308
+bu 	不	c=0 d=0.1 t=254
+bu cun zai 	不存在	c=3 d=2.97025 t=229
+bu jiu 	不就	c=1 d=1 t=479
+bu le 	不了	c=1 d=1 t=378
+bu neng 	不能	c=2 d=0.791153 t=491
+bu sheng xiao 	不生效	c=1 d=1 t=255
+bu shi 	不是	c=2 d=1.63445 t=457
+bu shu 	部署	c=2 d=1.52349 t=491
+bu xing 	不行	c=1 d=1 t=395
+bu yi lai 	不依賴	c=1 d=1 t=242
+bu ying xiang 	不影響	c=1 d=0.740818 t=491
+bu yong 	不用	c=2 d=0.933712 t=491
+cai hui 	纔會	c=1 d=0.843665 t=491
+can shu 	參數	c=1 d=0.557106 t=491
+ce shi 	測試	c=1 d=1 t=342
+cha 	查	c=1 d=0.909373 t=491
+cha kan 	查看	c=2 d=0.980199 t=491
+cha ru 	插入	c=1 d=0.360595 t=491
+cha xun 	查詢	c=1 d=0.392586 t=491
+che chang 	車場	c=5 d=2.12313 t=491
+cheng gong 	成功	c=1 d=0.373439 t=491
+chi 	池	c=1 d=0.416862 t=491
+chong fu 	重複	c=1 d=0.396531 t=491
+chong qi 	重啓	c=1 d=1 t=280
+chong xin 	重新	c=1 d=0.955997 t=491
+chu shi hua 	初始化	c=1 d=0.369723 t=491
+cuo wu 	錯誤	c=2 d=1.98511 t=472
+da kuo hao 	大括號	c=1 d=1 t=362
+da xie 	大寫	c=2 d=1.32275 t=491
+da yin 	打印	c=1 d=1 t=220
+dang qian 	當前	c=2 d=1.93707 t=329
+dao 	到	c=2 d=0.647265 t=491
+dao ru 	導入	c=1 d=0.472367 t=491
+de 	的	c=27 d=10.4657 t=491
+deng lu 	登錄	c=1 d=1 t=288
+di fang 	地方	c=1 d=0.436049 t=491
+di san fang 	第三方	c=1 d=1 t=243
+di yi hang 	第一行	c=1 d=0.519442 t=491
+di zhi 	地址	c=1 d=0.494109 t=491
+dian 	點	c=2 d=1.29455 t=491
+dian zi shu 	電子書	c=1 d=1 t=314
+ding dan 	訂單	c=1 d=1 t=444
+ding shi 	定時	c=1 d=1 t=283
+dou 	都	c=1 d=0.634448 t=491
+dou shi 	都是	c=3 d=1.53764 t=491
+du qu 	讀取	c=2 d=1.18034 t=491
+duan kou 	端口	c=1 d=1 t=371
+duo hang 	多行	c=1 d=0.453845 t=491
+en 	恩	c=1 d=1 t=491
+fang wen 	訪問	c=1 d=1 t=377
+fen ge 	分割	c=1 d=0.463013 t=491
+fen hao 	分號	c=1 d=0.458406 t=491
+feng bi 	封閉	c=1 d=1 t=295
+fu wu duan 	服務端	c=1 d=0.594521 t=491
+gai 	改	c=5 d=4.43942 t=459
+gai cheng 	改成	c=1 d=1 t=427
+gai hao 	改好	c=1 d=1 t=465
+ge 	個	c=1 d=1 t=480
+ge shi 	格式	c=1 d=1 t=319
+ge shi hua 	格式化	c=1 d=1 t=315
+ge shu 	個數	c=1 d=0.985112 t=491
+gen ju 	根據	c=1 d=0.384812 t=491
+geng xin 	更新	c=2 d=1.24792 t=491
+gong zuo 	工作	c=1 d=0.537944 t=491
+gu ding 	固定	c=2 d=1.5627 t=386
+guan le 	管了	c=1 d=0.677057 t=491
+guang biao 	光標	c=2 d=1.96546 t=491
+gui hua 	規劃	c=1 d=1 t=301
+gui ze 	規則	c=9 d=4.71851 t=491
+ha ha ha 	哈哈哈	c=1 d=0.421052 t=491
+hao 	號	c=2 d=1.99005 t=311
+hao le 	好了	c=1 d=1 t=488
+hao peng 	好鵬	c=1 d=0.878095 t=491
+hao peng 	郝鵬	c=1 d=0.882497 t=491
+he 	和	c=2 d=0.89679 t=491
+he ji 	合計	c=1 d=1 t=312
+hei ping 	黑屏	c=1 d=1 t=333
+hen duo 	很多	c=1 d=1 t=384
+hou xuan 	候選	c=0 d=0.097531 t=491
+hou xuan zi 	候選字	c=2 d=1.97025 t=491
+hou zhui 	後綴	c=1 d=0.511709 t=491
+huan cun 	緩存	c=1 d=1 t=267
+huan jing 	環境	c=2 d=0.565525 t=491
+hui 	會	c=3 d=1.39542 t=491
+huo qu 	獲取	c=2 d=0.571209 t=491
+ji 	及	c=1 d=1 t=343
+ji bai ge 	幾百個	c=1 d=1 t=485
+ji ben 	基本	c=1 d=1 t=410
+ji fei 	計費	c=6 d=2.78434 t=491
+ji hua 	計劃	c=1 d=1 t=452
+ji lu 	記錄	c=1 d=1 t=327
+ji qi 	機器	c=1 d=1 t=321
+jian 	建	c=1 d=0.733447 t=491
+jian hao 	建好	c=0 d=0.066365 t=491
+jian hao ka 	建好卡	c=1 d=0.666977 t=491
+jie jia ri 	節假日	c=3 d=2.48979 t=491
+jie kou 	接口	c=1 d=1 t=383
+jie xi 	解析	c=1 d=1 t=250
+jin liang 	儘量	c=1 d=1 t=466
+jiu 	就	c=3 d=1.73157 t=491
+jiu de 	舊的	c=1 d=1 t=443
+jiu xing 	就行	c=1 d=0.771052 t=491
+ka 	卡	c=3 d=2.26426 t=491
+kai fa 	開發	c=2 d=0.718136 t=491
+kai tou 	開頭	c=1 d=1 t=278
+ke yi 	可以	c=1 d=1 t=422
+ku 	庫	c=1 d=1 t=244
+kuang jia 	框架	c=1 d=1 t=217
+lai yuan 	來源	c=1 d=0.390628 t=491
+le 	了	c=5 d=2.3392 t=491
+le ma 	了嗎	c=1 d=0.66365 t=491
+lei xing 	類型	c=2 d=0.386741 t=491
+li wei 	離位	c=3 d=2.08905 t=491
+lu jing 	路徑	c=1 d=0.501576 t=491
+lu nei 	路內	c=1 d=1 t=303
+ma 	嗎	c=5 d=3.13165 t=491
+mai dong xi 	買東西	c=0 d=0.0398519 t=491
+mei 	沒	c=6 d=3.28134 t=491
+mei fa 	沒法	c=1 d=1 t=448
+mei ju 	枚舉	c=1 d=0.364219 t=491
+mei you 	沒有	c=3 d=2.42599 t=396
+meng meng 	萌萌	c=1 d=1 t=380
+mu lu 	目錄	c=1 d=0.540641 t=491
+na ge 	哪個	c=2 d=1.44486 t=486
+na you 	哪有	c=1 d=1 t=484
+nei wang 	內網	c=1 d=1 t=374
+ni 	你	c=3 d=2.56122 t=491
+ni gai 	你該	c=1 d=1 t=489
+ni mai dong xi 	你買東西	c=1 d=0.400517 t=491
+ni wen wen 	你問問	c=1 d=0.774916 t=491
+ni zhi jie 	你直接	c=1 d=1 t=429
+pai xu 	排序	c=1 d=1 t=359
+pan 	盤	c=0 d=0.0501576 t=491
+pan duan 	判斷	c=3 d=2.6182 t=356
+pei 	配	c=1 d=1 t=438
+pei zhi 	配置	c=8 d=3.27882 t=491
+pi liang 	批量	c=1 d=1 t=394
+pi wen 	批文	c=1 d=1 t=404
+qian zhui 	前綴	c=1 d=1 t=273
+qing kuang 	情況	c=1 d=1 t=398
+qing qiu 	請求	c=1 d=0.588605 t=491
+rang 	讓	c=1 d=1 t=453
+ren wu 	任務	c=1 d=1 t=284
+ru he 	如何	c=16 d=4.44995 t=491
+san yuan 	三元	c=2 d=0.811111 t=491
+shang 	上	c=2 d=1.43536 t=491
+shang xian 	上線	c=2 d=1.97531 t=344
+she ji 	設計	c=1 d=0.99005 t=491
+she zhi 	設置	c=1 d=1 t=412
+shen he 	審覈	c=0 d=0.1 t=427
+shen me 	什麼	c=6 d=2.16386 t=491
+shen me shi 	什麼事	c=1 d=0.398519 t=491
+sheng cheng 	生成	c=2 d=1.90937 t=241
+sheng xiao 	生效	c=1 d=1.0436 t=420
+shi 	是	c=8 d=2.93721 t=491
+shi 	時	c=5 d=2.2777 t=491
+shi bai 	失敗	c=3 d=1.5457 t=491
+shi duan 	時段	c=1 d=0.628135 t=491
+shi fou 	是否	c=2 d=0.588953 t=491
+shi hou 	時候	c=4 d=2.17665 t=491
+shi ji 	實際	c=1 d=1 t=305
+shi jian 	時間	c=1 d=1 t=317
+shi shi 	實施	c=1 d=1 t=293
+shi shou 	實收	c=1 d=1 t=358
+shi xiao 	失效	c=3 d=0.965605 t=491
+shi yong 	使用	c=5 d=1.90218 t=491
+shi zhe ge 	是這個	c=1 d=0.612626 t=491
+shou fei 	收費	c=1 d=1 t=400
+shou shi 	手勢	c=1 d=1 t=334
+shu 	數	c=0 d=0.1 t=301
+shu ju 	數據	c=6 d=1.76032 t=491
+shu ru fa 	輸入法	c=1 d=0.357007 t=491
+shu zi 	數字	c=1 d=1 t=231
+shui 	誰	c=1 d=1 t=454
+shuo guo 	說過	c=1 d=1 t=367
+shuo ming 	說明	c=1 d=1 t=491
+sui bian 	隨便	c=1 d=1 t=407
+suo yi 	所以	c=1 d=1 t=409
+ta 	他	c=1 d=0.900325 t=491
+tong chang 	通常	c=1 d=0.489192 t=491
+tong guo 	通過	c=3 d=1.02434 t=491
+tou 	頭	c=1 d=0.418952 t=491
+wai bu 	外部	c=1 d=1 t=375
+wan cheng 	完成	c=2 d=1.19524 t=491
+wei 	未	c=0 d=0.1 t=427
+wei 	爲	c=2 d=1.65705 t=318
+wei shen he 	未審覈	c=1 d=1 t=428
+wei shen me 	爲什麼	c=1 d=0.486752 t=491
+wei zhi 	位置	c=2 d=1.97531 t=491
+wen dang 	文檔	c=1 d=0.869358 t=491
+wen jian 	文件	c=3 d=1.02089 t=491
+wen ti 	問題	c=1 d=0.918512 t=491
+wen wen 	問問	c=1 d=0.950821 t=491
+wo bu qing chu 	我不清楚	c=1 d=0.786628 t=491
+wo ke yao 	我可要	c=1 d=1 t=421
+wu chu 	誤觸	c=1 d=1 t=335
+xi 	西	c=1 d=1 t=336
+xi xian 	西鹹	c=1 d=1 t=337
+xia 	下	c=1 d=1 t=399
+xian shi 	顯示	c=1 d=0.438235 t=491
+xian zai 	現在	c=2 d=1.83946 t=424
+xiang dui 	相對	c=1 d=0.499074 t=491
+xiang mu 	項目	c=1 d=0.465334 t=491
+xiao 	小	c=1 d=0.946485 t=491
+xiao lang hao 	小狼毫	c=2 d=1.87435 t=491
+xie 	寫	c=3 d=0.928959 t=491
+xin xi 	信息	c=3 d=0.883293 t=491
+xiu gai 	修改	c=3 d=0.932316 t=491
+xu qiu 	需求	c=1 d=1 t=338
+ya guang 	亞光	c=1 d=1 t=332
+yan se 	顏色	c=1 d=0.97531 t=491
+yang shi 	樣式	c=2 d=1.91751 t=491
+yao 	要	c=1 d=1 t=463
+ye mian 	頁面	c=3 d=2.44202 t=431
+yi 	以	c=1 d=1 t=277
+yi chang 	異常	c=2 d=0.597501 t=491
+yi ci 	一次	c=2 d=1.77492 t=464
+yi ge 	一個	c=2 d=1.79057 t=270
+yi si 	意思	c=3 d=0.982145 t=491
+yi wan cheng 	已完成	c=1 d=1 t=294
+yin yue 	音樂	c=0 d=0.1 t=319
+ying wen 	英文	c=1 d=0.460704 t=491
+ying xiang 	影響	c=1 d=1 t=476
+yong 	用	c=4 d=1.86202 t=491
+yong hu 	用戶	c=2 d=0.995012 t=491
+you 	有	c=2 d=0.837048 t=491
+you mei you 	有沒有	c=1 d=0.798516 t=491
+yuan wen 	原文	c=1 d=1 t=247
+yuan yin 	原因	c=1 d=1 t=257
+yun 	雲	c=0 d=0.054998 t=491
+yun yin yue 	雲音樂	c=1 d=1 t=320
+zai 	在	c=4 d=1.95194 t=491
+zai xian 	在線	c=2 d=1.96546 t=491
+zen me 	怎麼	c=1 d=1 t=393
+zhe 	這	c=1 d=1 t=478
+zhe ge 	這個	c=4 d=1.5926 t=491
+zhe zhong 	這種	c=1 d=0.913931 t=491
+zheng chang 	正常	c=3 d=2.54255 t=397
+zheng ze 	正則	c=1 d=1 t=354
+zhi ding 	指定	c=2 d=1.09516 t=491
+zhi qian 	之前	c=2 d=0.891366 t=491
+zhi shi 	只是	c=1 d=1 t=440
+zhi yao 	只要	c=1 d=0.744532 t=491
+zhi you 	只有	c=1 d=0.818731 t=491
+zhong 	中	c=6 d=1.82574 t=491
+zhong duan 	終端	c=1 d=1 t=282
+zhong jian 	中間	c=1 d=1 t=468
+zhu meng 	朱萌	c=1 d=1 t=382
+zhu zhou 	株洲	c=1 d=1 t=340
+zhuan huan 	轉換	c=1 d=1 t=233
+zhuan wei 	轉爲	c=1 d=0.379083 t=491
+zhuang tai 	狀態	c=2 d=1.98511 t=474
+zhui jia 	追加	c=1 d=1 t=269
+zhui su 	追溯	c=1 d=1 t=449
+zi 	字	c=0 d=0.097531 t=491
+zi ding yi 	自定義	c=3 d=0.927743 t=491
+zi dong 	自動	c=1 d=0.694197 t=491
+zi fu chuan 	字符串	c=3 d=2.27238 t=347
+zi ji 	自己	c=1 d=0.474734 t=491
+zi liao 	資料	c=1 d=1 t=491
+zi qiang 	自強	c=1 d=0.778801 t=491
+zi ti 	字體	c=1 d=0.937067 t=491
+zui hao 	最好	c=1 d=1 t=414
+zuo le 	做了	c=1 d=1 t=442
