@@ -1,0 +1,9 @@
+---
+name: luna_pinyin.extended
+version: "2024.05.10"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin                # 明月拼音自带词库 必须先导入字才能导入词典 
+  # - dict/luna_pinyin.cmd          # 常用命令
+  - dict/luna_pinyin.test          # test
